@@ -1,0 +1,8 @@
+{
+	  "eslint.options": {"configFile": ".eslintrc.js"},
+	  "eslint.codeAction.showDocumentation": {
+	    "enable": true
+	  },
+	  "eslint.validate": ["javascript", "typescript"],
+	  "eslint.format.enable": true
+	}
